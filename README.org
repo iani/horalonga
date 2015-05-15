@@ -1,0 +1,13 @@
+Support tools for performing pieces of modern repertory of the Viola, made with SuperCollider
+
+* Installation Instructions
+
+1. Download SuperCollider from here: http://supercollider.github.io/download.html
+2. Open (start) the SuperCollider application.
+3. From Menu "File" choose "Open user support directory".  This will open in a new window in the file navigation tool of the operating system that you are using (Finder or other).
+4. Look for a folder named "Extensions" in the user support directory which you just opened.
+5. If the folder "Extensions" does not exist in the user support directory, then create it.
+6. Copy the entire "horalonga" folder inside the Extensions folder.
+7. On SuperCollider, from Menu "Language" choose "Recompile Class Library".
+
+You should then obtain a window with labeled buttons for playing the non-tempered pitches that occur in Hora Longǎ.
