@@ -10,4 +10,4 @@ Support tools for performing pieces of modern repertory of the Viola, made with 
 6. Copy the entire "horalonga" folder inside the Extensions folder.
 7. On SuperCollider, from Menu "Language" choose "Recompile Class Library".
 
-You should then obtain a window with labeled buttons for playing the non-tempered pitches that occur in Hora Longǎ.
+You should then obtain a window with labeled buttons for playing the non-tempered pitches that occur in /Hora longǎ/.
